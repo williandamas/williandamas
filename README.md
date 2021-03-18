@@ -1,5 +1,5 @@
 ### 👨 Olá, Me chamo Willian Oliveira.👨‍🎓 Estudante do 5 período de Ciência da Computação na UNIP- Ribeirão Preto.
-### Criei este repositório para compartilhar meus estudos complementares tais como: Ciência de dados e Machine Learning com Python e R | Deep learning e OpenCV | Manipulação, Criação e manutenção de Bancos de Dados SQL e NoSql | Desenvolvimento Back-end com Python e Django e afins.🧑‍💻
+### Criei este repositório para compartilhar meus estudos complementares tais como: Ciência de dados e Machine Learning com Python e R | Deep learning e OpenCV | Criação, Manipulação e manutenção de Bancos de Dados SQL e NoSql | Desenvolvimento Back-end com Python e Django e afins.🧑‍💻
 
 ### Aqui está algumas informações importantes
 
