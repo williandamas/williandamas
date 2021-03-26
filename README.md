@@ -1,6 +1,7 @@
 ### 👨 Olá, Me chamo Willian Oliveira.👨‍🎓 Estudante do 5 período de Ciência da Computação na UNIP- Ribeirão Preto.
 ### Criei este repositório para compartilhar meus estudos complementares.
 
+
 ### Aqui está algumas informações importantes
 
 ### Link do meu Linkedin: www.linkedin.com/in/wiillianoliveira
