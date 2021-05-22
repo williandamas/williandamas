@@ -10,8 +10,8 @@ Sempre aberto a novos desafios e pronto para enfrentar as mudanças.
 
 
 
-[![Linkedin: willian](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wiillianoliveira/)](https://www.linkedin.com/in/wiillianoliveira)[![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/wiiiiiiillian_oliveira/)](https://www.instagram.com/wiiiiiiillian_oliveira/)
-### Email: willian.oliveirappf@gmail.com
+[![Linkedin: loiane](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wiillianoliveira/)](https://www.linkedin.com/in/wiillianoliveira/)[![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/wiiiiiiillian_oliveira/)](https://www.instagram.com/wiiiiiiillian_oliveira/)
+
 
 
 ## ⚡ Tecnologias
