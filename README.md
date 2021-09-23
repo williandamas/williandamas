@@ -2,7 +2,7 @@
 
 Me chamo Willian de Oliveira.
 
-Sou estudante do 5° período de Ciência da Computação na UNIP- Ribeirão Preto.
+Sou estudante do 6° período de Ciência da Computação na UNIP- Ribeirão Preto.
 
 Trabalho como desenvolvedor back-end.
 
