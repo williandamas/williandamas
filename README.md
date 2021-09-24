@@ -10,7 +10,7 @@ Sempre aberto a novos desafios e pronto para enfrentar as mudanças.
 
 
 
-[![Linkedin: loiane](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wiillianoliveira/)](https://www.linkedin.com/in/wiillianoliveira/)        [![Instagram Badge](https://img.shields.io/badge/-Instagram-mediumvioletred?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/wiiiiiiillian_oliveira/)](https://www.instagram.com/wiiiiiiillian_oliveira/)
+[![Linkedin: Willian](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wiillianoliveira/)](https://www.linkedin.com/in/wiillianoliveira/)        [![Instagram Badge](https://img.shields.io/badge/-Instagram-mediumvioletred?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/wiiiiiiillian_oliveira/)](https://www.instagram.com/wiiiiiiillian_oliveira/)
 
 
 
